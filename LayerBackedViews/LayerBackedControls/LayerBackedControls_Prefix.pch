@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'LayerBackedControls' target in the 'LayerBackedControls' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

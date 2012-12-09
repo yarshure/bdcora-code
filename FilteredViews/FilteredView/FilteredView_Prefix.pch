@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'FilteredView' target in the 'FilteredView' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

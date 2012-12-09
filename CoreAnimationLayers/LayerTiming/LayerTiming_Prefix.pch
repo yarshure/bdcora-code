@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'LayerTiming' target in the 'LayerTiming' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
